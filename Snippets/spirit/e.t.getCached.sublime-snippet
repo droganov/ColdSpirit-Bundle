@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+e.t.getCached(
+	${1:cacheKey},
+	${2:function()\{
+	\}},
+	${3:timeSpan}${4:, 
+	${5:cacheName}});$0
+]]></content>
+	<tabTrigger>getCached</tabTrigger>
+	<scope>text.html.cfm</scope>
+</snippet>

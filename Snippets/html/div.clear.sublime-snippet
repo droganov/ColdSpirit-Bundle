@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="clear"></div>$0
+]]></content>
+	<tabTrigger>clear</tabTrigger>
+	<description>ColdSpirit:html:div.clear</description>
+	<scope>text.html</scope>
+</snippet>
