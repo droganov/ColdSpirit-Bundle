@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+e.t.getViewState()$0
+]]></content>
+<tabTrigger>getViewState</tabTrigger>
+<scope>text.html.cfm</scope>
+</snippet>
