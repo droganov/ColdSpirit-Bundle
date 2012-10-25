@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[⃁]]></content>
+	<tabTrigger>rub</tabTrigger>
+	<description>Rouble mark</description>
+	<scope>text.html</scope>
+</snippet>
